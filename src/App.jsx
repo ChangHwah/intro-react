@@ -1,6 +1,6 @@
 import React from "react";
 import Table from "./Table";
-import list from "./List";
+import List from "./List";
 
 class App extends React.Component {
   constructor(props) {
